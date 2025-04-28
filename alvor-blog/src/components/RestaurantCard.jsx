@@ -1,0 +1,1 @@
+// RestaurantCard.jsx placeholder
